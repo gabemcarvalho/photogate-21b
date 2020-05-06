@@ -1,0 +1,1 @@
+global.r_name = "Testing Box"

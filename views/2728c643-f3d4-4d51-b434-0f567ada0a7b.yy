@@ -1,0 +1,30 @@
+{
+    "id": "2728c643-f3d4-4d51-b434-0f567ada0a7b",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "2728c643-f3d4-4d51-b434-0f567ada0a7b",
+    "children": [
+        "c2c1d43d-cdb7-4613-a30d-08747ba10e5b",
+        "8e0c81fa-60ba-4916-87f0-a063ba9a80d6",
+        "a80c4b44-b814-41ff-9b87-1f88748c3e52",
+        "98667f46-8d0a-4b58-abf9-f2a8ff41bd3d",
+        "6cc15810-b15e-4d0b-af6b-e589bc9ba887",
+        "e1cce8d2-3428-430d-a8a2-6666e777b7d7",
+        "fec1251f-cacc-4e6a-8019-e5db438bd96c",
+        "a5016fd4-3d22-4116-945d-674c14173084",
+        "62d9bcec-5d12-4c42-b249-ee7b73cecf9b",
+        "e62c95c1-b5f6-4294-9fee-5866fe7a724d",
+        "57ee3c34-a8c6-480f-b18e-4ba55c6fcaf7",
+        "57191286-f7fe-43fd-b6e3-9ad6bbfb1998",
+        "9449a940-d50a-4e29-9bff-e788eb92c23f",
+        "c3f914db-f229-4286-a35f-1c8d2545ad52",
+        "764aa59a-b6a4-4d47-b70f-2491541bea2f",
+        "c7ffddc4-f8ee-4f1e-bad3-5698fe10362f",
+        "a11d4389-968b-479f-b6ca-ad49fc8bb296",
+        "902e4516-5135-4a69-aced-dce534118fbb"
+    ],
+    "filterType": "GMShader",
+    "folderName": "shaders",
+    "isDefaultView": false,
+    "localisedFolderName": "ResourceTree_Shaders"
+}

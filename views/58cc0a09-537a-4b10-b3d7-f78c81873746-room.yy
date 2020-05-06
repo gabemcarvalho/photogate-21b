@@ -1,0 +1,31 @@
+{
+    "id": "f2ed4698-bff0-4c44-b312-295ecd631adc",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "58cc0a09-537a-4b10-b3d7-f78c81873746-room",
+    "children": [
+        "fedf40f9-b7d6-4e43-877a-7310eef572b6",
+        "7fad469b-0055-49f7-a757-b466597ea906",
+        "fc7dfe25-6044-411a-9b76-cbdaa9a82729",
+        "6aed836c-3c41-46ca-ac4a-e593d18af29a",
+        "f7fac3e8-ef79-4603-a19f-6b2de1ebcd1c",
+        "9e40d96d-fc7d-47e9-b265-552e4956708e",
+        "3f71821d-9ffb-4c30-9219-b3e3650a3493",
+        "245588d2-f167-4a84-8ba1-2b53a77ac196",
+        "b40f9ad1-3501-4d29-a9f7-22cb6f16759f",
+        "8e82fd31-e652-4e78-9745-bbb5fc0be824",
+        "d2a5722f-b1fe-425f-b5c0-4fa5e7a42ee5",
+        "4d65fd17-4525-4ce5-802d-9b2e3e8dfeae",
+        "43c17ff2-83da-4f04-99c4-7b60c45a41e7",
+        "85ff2a55-c99a-4180-9db1-de2ab1e0604e",
+        "2db7e337-2ad3-4649-aa47-82cb9376cc84",
+        "7afb6aac-9209-4830-9a6e-25d783caf8b2",
+        "d1a9670d-ebff-472a-8d87-17effb82df07",
+        "c9c04ca7-4e15-412f-ab2f-3bfb28591282",
+        "bf5abe50-daa5-4d60-91e7-fa3b28d3a0a7"
+    ],
+    "filterType": "GMFolder",
+    "folderName": "58cc0a09-537a-4b10-b3d7-f78c81873746",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

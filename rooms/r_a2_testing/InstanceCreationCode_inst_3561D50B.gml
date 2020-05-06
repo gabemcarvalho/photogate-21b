@@ -1,0 +1,2 @@
+colour = BLUE;
+dir = LEFT;

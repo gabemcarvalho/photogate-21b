@@ -1,0 +1,1 @@
+scr_setup_plat(room_speed*20,1,2,LEFT);

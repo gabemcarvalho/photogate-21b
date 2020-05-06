@@ -1,0 +1,2 @@
+dir = UP;
+colour = PURPLE;

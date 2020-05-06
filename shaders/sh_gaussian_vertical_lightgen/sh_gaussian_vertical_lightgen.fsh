@@ -1,0 +1,23 @@
+varying vec2 v_texcoord;
+
+uniform vec2 resolution;
+uniform float blur_amount;
+
+void main()
+{ 
+float blurSize = 1.0/resolution.y * blur_amount;
+
+	vec4 sum = vec4(0.0);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y - 4.0*blurSize))	* vec4(vec3(1.0), 0.06);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y - 3.0*blurSize))	* vec4(vec3(1.0), 0.09);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y - 2.0*blurSize))	* vec4(vec3(1.0), 0.12);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y - blurSize))		* vec4(vec3(1.0), 0.15);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y))					* vec4(vec3(1.0), 0.16);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y + blurSize))		* vec4(vec3(1.0), 0.15);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y + 2.0*blurSize))	* vec4(vec3(1.0), 0.12);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y + 3.0*blurSize))	* vec4(vec3(1.0), 0.09);
+	sum += texture2D(gm_BaseTexture, vec2(v_texcoord.x, v_texcoord.y + 4.0*blurSize))	* vec4(vec3(1.0), 0.06);
+	
+	gl_FragColor = sum;
+}
+

@@ -1,0 +1,2 @@
+colour = PURPLE;
+dir = DOWN;

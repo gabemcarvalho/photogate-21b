@@ -1,0 +1,1 @@
+other_room = r_1_test2;

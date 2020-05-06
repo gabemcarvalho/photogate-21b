@@ -1,0 +1,1 @@
+global.r_name = "Photogate 21-A";

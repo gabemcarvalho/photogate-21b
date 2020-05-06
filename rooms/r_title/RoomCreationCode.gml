@@ -1,0 +1,1 @@
+o_controller.draw_hud = false;
