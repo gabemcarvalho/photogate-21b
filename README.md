@@ -9,4 +9,3 @@ Z - Jump
 ![Image of Photon](./_other/preview/1_altar.png)
 ![Bounce off mirrors](./_other/preview/2_bounce.png)
 ![Crystal](./_other/preview/3_crystal.gif)
-![Moving Platforms](https://imgur.com/5pd8eqf)
